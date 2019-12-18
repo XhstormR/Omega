@@ -1,0 +1,9 @@
+[submodule "meterpreter-loader"]
+	path = meterpreter-loader
+	url = git@github.com:XhstormR/meterpreter-loader.git
+[submodule "shellcode-launcher"]
+	path = shellcode-launcher
+	url = git@github.com:XhstormR/shellcode-launcher.git
+[submodule "sRDI"]
+	path = sRDI
+	url = git@github.com:monoxgas/sRDI.git
