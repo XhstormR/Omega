@@ -13,7 +13,7 @@
 ```bash
 git clone --depth 1 --recurse-submodules --shallow-submodules -j3 git@github.com:XhstormR/Omega.git
 cd Omega
-./make.bat
+make.bat
 ```
 
 构建生成的文件存放在 `cmake-build-default` 目录下。
