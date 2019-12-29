@@ -4,6 +4,7 @@
 
 * Git
 * CMake
+* Clang
 * MinGW
 * MSYS2
 * Python
