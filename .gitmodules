@@ -4,6 +4,9 @@
 [submodule "shellcode-launcher"]
 	path = shellcode-launcher
 	url = git@github.com:XhstormR/shellcode-launcher.git
+[submodule "uac-enigma"]
+	path = uac-enigma
+	url = git@github.com:XhstormR/uac-enigma.git
 [submodule "sRDI"]
 	path = sRDI
 	url = git@github.com:monoxgas/sRDI.git
